@@ -19,7 +19,7 @@
 <br>
 - 👋 Hi, I’m Jake Pucci. I have just finished my 15 week Full Stack Software Engineering course through Flatiron School<br>
 - 🌱 I’m currently learning React Native and Node.js with hopes to also learn Python.<br>
-- 📫 How to reach me Jakepucci26@gmail.com, [my blog](https://dev.to/jpucci26), [my Linkedin](https://www.linkedin.com/in/jake-pucci/)
+- 📫 How to reach me Jakepucci26@gmail.com, https://dev.to/jpucci26, https://www.linkedin.com/in/jake-pucci/
 
 <!---
 Jpucci26/Jpucci26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
