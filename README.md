@@ -18,7 +18,7 @@
 - [ ] Begin a career!!
 <br>
 - 👋 Hi, I’m Jake Pucci. I have just finished my 15 week Full Stack Software Engineering course through Flatiron School<br>
-- 🌱 I’m currently learning React Native and Node.js with hopes to also learn Python.<br>
+- 🌱 I’m currently learning React Native and C.<br>
 - 📫 How to reach me Jakepucci26@gmail.com, https://dev.to/jpucci26, https://www.linkedin.com/in/jake-pucci/
 
 <!---
